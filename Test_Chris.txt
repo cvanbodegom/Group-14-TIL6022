@@ -1,0 +1,5 @@
+aantal treinen/ag NDOVloket voor dienstregeling (lengte trein, etc.) + capaciteit +frequentie
+steden/ trajecten bezetting
+gemiddelde vetraging/ soort disruption (open data disruptions)
+gemiddelde vertaging/ dag 
+vertraging/uur/ dagmoment/ddag
