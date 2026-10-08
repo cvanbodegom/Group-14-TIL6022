@@ -1,5 +1,12 @@
-aantal treinen/ag NDOVloket voor dienstregeling (lengte trein, etc.) + capaciteit +frequentie
-steden/ trajecten bezetting
-gemiddelde vetraging/ soort disruption (open data disruptions)
-gemiddelde vertaging/ dag 
-vertraging/uur/ dagmoment/ddag
+aantal treinen/ag NDOVloket voor dienstregeling (lengte trein, etc.) + capaciteit +frequentie  ->2+3    2 personen
+
+
+steden/ trajecten bezetting -> deelvraag 5
+aantal passagiers -> deelvraag 4              bart 4+5
+
+
+
+gemiddelde vetraging/ soort disruption (open data disruptions)-> deelvraag 6   1 persoon
+gemiddelde vertaging/ dag    ->deelvraag 1  -> soort van klaar    -> chris uitttypen
+
+Eerst dit uitwerken dan connecties
